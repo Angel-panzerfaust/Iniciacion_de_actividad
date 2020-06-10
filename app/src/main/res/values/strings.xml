@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iniciacion de actividad</string>
+    <string name="texto_de_sugerencia">texto de sugerencia</string>
+    <string name="editar_mensaje">Ingresar un mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="bonton_enviar">Enviar</string>
+</resources>
